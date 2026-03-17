@@ -11,3 +11,8 @@ Current Learning:
 - Ethical hacking fundamentals
 
 This repository will contain my notes, labs, and projects as I continue developing practical cybersecurity skills.
+
+## Projects
+
+- Linux Learning (basic commands and system navigation)
+- TryHackMe Writeups (hands-on cybersecurity labs and exercises)
